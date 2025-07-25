@@ -17,6 +17,10 @@ class MessageController {
         )
 
 
+        // 就当我开发了个新功能吧
+
+
+        // 我要合并咯
         var a = HashMap<String, String>();
         a.put("a", "a");
         a["a"];
