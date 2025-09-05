@@ -11,6 +11,6 @@ data class Message2(val id: String?, val text: String)
 
 // hotfix 热修复了一个问题
 
-// origin bug 333 修改一下下就可以了 222 6666
+// origin bug 333 修改一下下就可以了 222 777
 
 // origin bug2
