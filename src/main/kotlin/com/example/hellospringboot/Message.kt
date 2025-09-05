@@ -8,3 +8,5 @@ data class Message2(val id: String?, val text: String)
 // 再次模拟提交代码 冲突一
 
 // 又有一个冲突。。。 保留这个
+
+// hotfix 热修复了一个问题
