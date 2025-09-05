@@ -10,3 +10,7 @@ data class Message2(val id: String?, val text: String)
 // 又有一个冲突。。。 保留这个
 
 // hotfix 热修复了一个问题
+
+// origin bug
+
+// origin bug2
